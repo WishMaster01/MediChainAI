@@ -1,0 +1,11 @@
+
+
+{
+    "name" : "paracetamol",
+    "manufacturing_date" : "25-10-2025",
+    "expiry_date" : "25-10-2027",
+    "batch_number" : "MBC1234",
+    "manufacturer" : "PharmaCorp",
+    "location" : "FACTORY-1"
+}
+
