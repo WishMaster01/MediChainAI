@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "mint": "node mint_nft.js" ,
+    "mint": "node mint_nft.js",
     "start_app": "node App.js",
     "start_react": "webpack serve --mode development",
     "start": "parcel index.html"
@@ -15,6 +15,7 @@
   "description": "",
   "dependencies": {
     "@hashgraph/sdk": "^2.61.0",
+    "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
